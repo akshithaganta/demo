@@ -1,4 +1,4 @@
 import streamlit as st
 st.header('hasee toh phasee')
-st.write('hasee toh phasee')
-st.video('https://youtu.be/WnU0lH6C0EA?si=Wi0BMwaUppUZCuYL')
+st.write('ishq bulaava')
+st.video('https://youtu.be/c2gSzYLJ8sY?si=B9TH0pXaLLuVQ_VL')
